@@ -4,7 +4,7 @@ console.log(params);
 document.querySelector("#result").innerHTML = `<table border='solid'>
   <thead>
     <tr>
-      <th>Full Name</th><th>Sex</th><th>DOB</th><th>Email</th><th>County</th><th>Telephone</th>
+      <th>Full Name</th><th>Sex</th><th>DOB</th><th>Email</th><th>Parish</th><th>Telephone</th>
     </tr>
   </thead>
   <tbody>
